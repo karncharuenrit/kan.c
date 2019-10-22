@@ -1,0 +1,2 @@
+# kan.c
+test
